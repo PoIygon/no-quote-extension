@@ -1,0 +1,1 @@
+document.querySelector("#id_body").value="[🤬]"
